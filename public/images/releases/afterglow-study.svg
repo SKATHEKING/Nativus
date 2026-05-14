@@ -1,0 +1,10 @@
+<svg width="1400" height="1400" viewBox="0 0 1400 1400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Afterglow Study placeholder cover">
+  <rect width="1400" height="1400" fill="#0c120f"/>
+  <rect x="120" y="120" width="1160" height="1160" fill="none" stroke="#73d7a2" stroke-opacity="0.45" stroke-width="4"/>
+  <path d="M220 1040L480 620L700 860L910 480L1180 1000" fill="none" stroke="#b8f4d1" stroke-width="20" stroke-opacity="0.75"/>
+  <circle cx="460" cy="630" r="18" fill="#d9ffe9"/>
+  <circle cx="700" cy="860" r="18" fill="#d9ffe9"/>
+  <circle cx="910" cy="480" r="18" fill="#d9ffe9"/>
+  <text x="120" y="1210" fill="#ecfaef" font-size="90" font-family="Arial, sans-serif" letter-spacing="10">AFTERGLOW STUDY</text>
+  <text x="120" y="1300" fill="#91e0b7" font-size="36" font-family="Arial, sans-serif" letter-spacing="8">EP PLACEHOLDER ARTWORK</text>
+</svg>

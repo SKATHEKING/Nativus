@@ -1,0 +1,17 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Sola Vert placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1411"/>
+      <stop offset="100%" stop-color="#050705"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+  <rect x="80" y="80" width="1040" height="1040" fill="none" stroke="#6ecf8d" stroke-opacity="0.38" stroke-width="3"/>
+  <g fill="none" stroke="#b9f4cc" stroke-opacity="0.62" stroke-width="14">
+    <path d="M260 260L940 260L940 940"/>
+    <path d="M190 420L780 420L780 1010"/>
+    <path d="M420 190L420 780L1010 780"/>
+  </g>
+  <text x="120" y="1060" fill="#effcf3" font-size="72" font-family="Arial, sans-serif" letter-spacing="18">SOLA VERT</text>
+  <text x="120" y="1130" fill="#8ad7a3" font-size="30" font-family="Arial, sans-serif" letter-spacing="10">VISUAL PLACEHOLDER</text>
+</svg>

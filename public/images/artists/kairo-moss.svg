@@ -1,0 +1,20 @@
+<svg width="1200" height="1200" viewBox="0 0 1200 1200" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Kairo Moss placeholder">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#140f1a"/>
+      <stop offset="100%" stop-color="#060507"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="1200" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="1060" fill="none" stroke="#b490ff" stroke-opacity="0.35" stroke-width="4"/>
+  <g stroke="#e9d4ff" stroke-opacity="0.65" stroke-width="12" fill="none">
+    <path d="M220 300H980"/>
+    <path d="M220 430H980"/>
+    <path d="M220 560H980"/>
+    <path d="M220 690H980"/>
+    <path d="M220 820H980"/>
+  </g>
+  <circle cx="600" cy="560" r="180" fill="none" stroke="#b490ff" stroke-width="18"/>
+  <text x="120" y="1060" fill="#f5e8ff" font-size="72" font-family="Arial, sans-serif" letter-spacing="16">KAIRO MOSS</text>
+  <text x="120" y="1130" fill="#caa8ff" font-size="30" font-family="Arial, sans-serif" letter-spacing="10">HIP HOP PLACEHOLDER</text>
+</svg>

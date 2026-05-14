@@ -23,6 +23,8 @@ What exists now:
 - Shared site header and footer
 - Placeholder pages for music, artists, support, shop, cart, and admin
 - A simple content file for reusable starter text
+- Dynamic artist and release routes using slug-based pages
+- Local placeholder hip-hop themed image assets for artists and releases
 - A visual direction that feels warm, cinematic, and label-focused
 
 ## Planned Features
@@ -82,6 +84,15 @@ The current structure is organized around the main public sections of the label 
 - `src/app` for pages and layouts
 - `src/components` for shared UI pieces
 - `src/lib` for reusable content and future helpers
+- `public/images/artists` for local artist placeholder assets
+- `public/images/releases` for local release cover placeholder assets
+
+## Current Learning Wins
+
+- You are using dynamic routes (`/artists/[slug]` and `/music/[slug]`)
+- Contact form now posts to a Next.js API route (`/api/contact`)
+- Artist and release cards now render image assets from local data files
+- Dynamic route metadata is generated for SEO-friendly page titles and descriptions
 
 ## Notes
 

@@ -1,0 +1,14 @@
+<svg width="1400" height="1400" viewBox="0 0 1400 1400" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Midnight Frequencies placeholder cover">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#17120f"/>
+      <stop offset="100%" stop-color="#060505"/>
+    </linearGradient>
+  </defs>
+  <rect width="1400" height="1400" fill="url(#bg)"/>
+  <circle cx="700" cy="700" r="430" fill="none" stroke="#f0be72" stroke-opacity="0.42" stroke-width="8"/>
+  <circle cx="700" cy="700" r="290" fill="none" stroke="#f0be72" stroke-opacity="0.72" stroke-width="18"/>
+  <path d="M340 1040L700 360L1060 1040" fill="none" stroke="#ffe8c3" stroke-opacity="0.8" stroke-width="20"/>
+  <text x="120" y="1210" fill="#f8efe4" font-size="86" font-family="Arial, sans-serif" letter-spacing="10">MIDNIGHT FREQUENCIES</text>
+  <text x="120" y="1300" fill="#d2ac74" font-size="36" font-family="Arial, sans-serif" letter-spacing="8">NATIVUS LABEL PLACEHOLDER ART</text>
+</svg>
